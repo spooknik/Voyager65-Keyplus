@@ -1,5 +1,5 @@
-# Voyager65
-Cutting-edge 65% keyboard PCB
+# Voyager65-Keyplus
+Cutting-edge 65% keyboard PCB for Keyplus firmware
 
 ![Frontside Render](https://raw.githubusercontent.com/ai03-2725/Voyager65/master/Renders/Back.png)
 [Supported Layouts](http://www.keyboard-layout-editor.com/#/gists/98784f0271c0b4e29edec77185eb883a)
@@ -12,7 +12,7 @@ Cutting-edge 65% keyboard PCB
 * RGB underglow with WS2812B/C chips
 * Easy programming via TC2030-IDC header
 * Alps and MX compatibility
-* **Completely** open-source: All the files you need to make a keyboard with it, design a case/plate for it, or even produce a batch of PCBs for your next GB, are all to be available free.
+* Fully open-source: All the files you need to make a keyboard with it, design a case/plate for it, or even produce a batch of PCBs for your next GB, are all to be available free.
 * The latest technology, some of which is untested or unstable.
 
 ## Status
